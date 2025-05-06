@@ -1,0 +1,38 @@
+{
+  "Sender": {
+    "Client":"Walmart SA de CV3242342 34234234234 23423423432 4234234234234",
+    "Name": "Gustavo Ricardo Mendoza Rodríguez",
+    "Address": "Calle Falsa 123",
+    "Colony": "Centro",
+    "PostalCode": "12345",
+    "CityState": "Ciudad de México",
+    "Country": "México",
+    "Phone": "555-1234"
+  },
+  "Recipient": {
+    "Client":"Liverpool SA de CV",
+    "Name": "Pedro López Mendoza",
+    "Address": "Avenida Siempre Viva 456",
+    "Colony": "Norte",
+    "PostalCode": "67890",
+    "CityState": "Guadalajara",
+    "Country": "México",
+    "Phone": "555-1234"
+  },
+  "ShippingDetails": {
+    "Date": "2025-04-21",
+    "Series": "ABCDEFGHIJKLMNRST234234234234",
+    "OriginDestination": "CDMX - Guadalajara",
+    "TrackingNumber": "XYZ987654321EWREWRWERWER"
+  },
+  "PackageInfo": {
+    "Type": "Caja",
+    "Width": 20,
+    "Height": 15,
+    "Length": 30,
+    "Volume": 0.009,
+    "Weight": 2.5
+  },
+  "Observations": "Gustavo Ricardo Mendoza Rodríguez 122312 SDFFDSFSDFSDF 324234324324 423423423423432432543534534534534534",
+  "CommittedBy": "Gustavo Ricardo Mendoza Rodríguez 122312 SDFFDSFSDFSDF 324234324324 23423423 423423423423432432543534534534534534"
+}
